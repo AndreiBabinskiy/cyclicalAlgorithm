@@ -1,2 +1,0 @@
-# cyclicalAlgorithm
-Циклический алгоритм
